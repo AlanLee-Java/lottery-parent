@@ -451,7 +451,7 @@
     <repositories>
         <repository>
             <id>nexus</id>
-            <url>http://120.76.141.141:9091/repository/maven-public/</url>
+            <url>http://120.76.141.141:8081/repository/maven-public/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -467,12 +467,12 @@
         <repository>
             <id>releases</id>
             <name>Releases</name>
-            <url>http://120.76.141.141:9091/repository/maven-releases/</url>
+            <url>http://120.76.141.141:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>snapshots</id>
             <name>Snapshot</name>
-            <url>http://120.76.141.141:9091/repository/maven-snapshots/</url>
+            <url>http://120.76.141.141:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
