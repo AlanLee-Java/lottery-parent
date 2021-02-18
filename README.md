@@ -1,2 +1,2 @@
-# lottery-parent
-基础架构父POM
+# 基础架构父POM
+
