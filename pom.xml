@@ -54,7 +54,7 @@
         <fluent-validator.version>1.0.9</fluent-validator.version>
         <jackson.version>2.9.8</jackson.version>
         <lucy-xss.version>1.6.3</lucy-xss.version>
-        <commons-beanutils.version>1.9.3</commons-beanutils.version>
+        <commons-beanutils.version>1.9.4</commons-beanutils.version>
         <tink.version>1.2.2</tink.version>
         <caffeine.version>2.7.0</caffeine.version>
         <bucket4j.version>4.4.1</bucket4j.version>
