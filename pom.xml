@@ -55,7 +55,7 @@
         <jackson.version>2.9.8</jackson.version>
         <lucy-xss.version>1.6.3</lucy-xss.version>
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
-        <tink.version>1.2.2</tink.version>
+        <tink.version>1.5.0</tink.version>
         <caffeine.version>2.7.0</caffeine.version>
         <bucket4j.version>4.4.1</bucket4j.version>
         <commons-compress.version>1.18</commons-compress.version>
